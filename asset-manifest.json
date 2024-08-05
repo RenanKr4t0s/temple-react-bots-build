@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.981c895f.js",
+    "static/media/2888544_412950-PDAM42-702.svg": "/static/media/2888544_412950-PDAM42-702.18438b833f7d2e17521b47c6d61e80aa.svg",
+    "static/media/temple.jpeg": "/static/media/temple.bfe7ffc5a437678929e0.jpeg",
+    "static/media/buquet2.png": "/static/media/buquet2.a0648d68b7be88450a61.png",
+    "static/media/navBarLogo.png": "/static/media/navBarLogo.a0648d68b7be88450a61.png",
+    "index.html": "/index.html",
+    "main.981c895f.js.map": "/static/js/main.981c895f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.981c895f.js"
+  ]
+}
